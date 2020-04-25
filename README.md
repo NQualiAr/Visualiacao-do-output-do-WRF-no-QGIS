@@ -1,6 +1,6 @@
 # Visualiacao-do-output-do-WRF-no-QGIS
-Manual para a visualização do output do WRF (formato netcdf) no QGIS
-Autor: Vinicius De Martin Sarnaglia
+Manual para a visualização do output do WRF (formato netcdf) no QGIS  
+  Autor: Vinicius De Martin Sarnaglia  
 
 **1. Download do QGIS**
   - O QGis deve ser baixado no seguinte link: https://www.qgis.org/pt_BR/site/forusers/download.html  
