@@ -28,9 +28,12 @@ Manual para a visualização do output do WRF (formato netcdf) no QGIS
 **4. Seleção dos parâmetros**
   - Os resultados serão carregados na aba "View" do GIS4WRF. Ao clicar no parâmetro desejado, ele será automaticamente carregado no mapa. A barra horizontal indica a data e horário ao que o resultado se refere. As variáveis destacadas em branco são as que possuem resultados apenas em uma camada (o resultado pode parecer deslocado, mas ao se dar o zoom adequado ao resultado, ele aparecerá na localização correta).
 
-![complemento 1](https://github.com/NQualiAr/Visualiacao-do-output-do-WRF-no-QGIS/blob/viniciusdms-imagens/4.png)  
+![complemento 1](https://github.com/NQualiAr/Visualiacao-do-output-do-WRF-no-QGIS/blob/viniciusdms-imagens/5.png)  
 
-  - As variáveis destacadas em verde são as que possuem resultados para mais de uma camada. Quando tais variáveis forem escolhidas, as camadas poderão ser selecionadas.
+  - As variáveis destacadas em verde são as que possuem resultados para mais de uma camada. Quando tais variáveis forem escolhidas, as camadas poderão ser selecionadas. Também é possível interpolar as camadas, mas, infelizmente, a interpolação não gerou nenhum raster (ao menos para mim).
+
+![complemento 1](https://github.com/NQualiAr/Visualiacao-do-output-do-WRF-no-QGIS/blob/viniciusdms-imagens/6.png)  
+
 
 
 
